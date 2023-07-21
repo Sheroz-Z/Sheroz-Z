@@ -1,3 +1,6 @@
 ### UBBAstudio
-
-![image](https://github.com/Sheroz-Z/Sheroz-Z/assets/131650467/b635de9b-ba82-4600-bef5-3da69a2c2171)
+<img src="img/Group 3.svg" alt="">
+<img src="img/html-5-svgrepo-com.svg" alt="">
+<img src="img/css-3-svgrepo-com.svg" alt="">
+<img src="img/scss2-svgrepo-com.svg" alt="">
+<img src="img/js-svgrepo-com.svg" alt="">
